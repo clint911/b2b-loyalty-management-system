@@ -47,18 +47,17 @@ The Code Jam Theme Tracks are specific categories or themes for participants to 
     - Press the Fork button
  2. Create project branch
  3. Make your changes within new branch!
-
-- Copy the folder named __Project_Name__
-- Rename the copied folder with your project name
-- Modify project details within your project folder __Readme.md__
-- Project Name
-- Brief Description
-- Team members & roles
-- Code Jam track - __Should be DeFi. We will be adding more soon in our next Code Jam__
-- Project details
-- Demonstartion video _(*Required)_
-- Requirements _(*Required)_
-- Instructions to build & test _(*Required)_
+     - Copy the folder named __Project_Name__
+     - Rename the copied folder with your project name
+     - Modify project details within your project folder __Readme.md__
+     - Project Name
+     - Brief Description
+     - Team members & roles
+     - Code Jam track - __Should be DeFi. We will be adding more soon in our next Code Jam__
+     - Project details
+     - Demonstartion video _(*Required)_
+     - Requirements _(*Required)_
+     - Instructions to build & test _(*Required)_
 
  4. Add, commit, and push the changes
 
